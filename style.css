@@ -1,3 +1,6 @@
 body {
     background: url(images/gravel.png)
 }
+.fixed-bottom {
+    position: fixed-bottom;
+}
